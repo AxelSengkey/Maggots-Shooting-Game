@@ -1,5 +1,5 @@
 # Maggots-Shooting-Game
-"MAGGOTS" - 2D Fantasy Shooting Game - with Python
+"MAGGOTS" - 2D Fantasy Shooting Game - Created using Python and Pygame Library
 
 Beat the maggots by summoning and throwing swords at them and save the villagers.
 
